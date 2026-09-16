@@ -54,7 +54,7 @@ tea bag frogy
   
 
 
-## printable like: 
+## printable like: https://www.printables.com/model/1844471-tea-bag-frogy
 ## About the Project
 ### **tea bag frogy** - this is 3d printed cute frog shape tea bag hanger which is Design in fusion 360 + blender. 
 
@@ -63,7 +63,6 @@ tea bag frogy
 ## Repository Structure
 - `src/` - project sources
 - `production/` - Production File
-- `Render/` - Blender source File 
 
 ## CAD 
 <div align="center">
@@ -89,7 +88,7 @@ Source: `BOM.csv`
 
 |item         |Qantity|price|link to buy                                     |
 |-------------|-------|-----|------------------------------------------------|
-|Pla+ filament|115gram| 1$   |https://india.numakers.com/products/pla-filament|
+|Pla+ filament| 30gram| 0.3$   |https://india.numakers.com/products/pla-filament|
 
 
 ## Production
